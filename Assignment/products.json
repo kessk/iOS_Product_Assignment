@@ -1,0 +1,63 @@
+{
+    "Products":
+    [
+        {
+                 "name": "Backpack",
+                 "id": "001",
+                 "description": "Black, with laptop compartment",
+                 "regularPrice": 79,
+                 "salePrice": 59,
+                 "productPhoto": "http://slimages.macys.com/is/image/MCY/products/5/optimized/1359935_fpx.tif?bgc=255,255,255&wid=164&qlt=90,0&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                 "colors":
+                 [
+                    "black",
+                    "blue",
+                    "white"
+                 ],
+                 "stores":
+                 {
+                    "San Francisco": "111 Market St",
+                    "Los Angeles": "Unit 5, Staples Center",
+                    "New York": "125, Fifth Avenue"
+                 }
+        },
+        {
+                 "name": "Coat",
+                 "id": "002",
+                 "description": "Green color, with belt",
+                 "regularPrice": 179,
+                 "salePrice": 149,
+                 "productPhoto": "http://slimages.macys.com/is/image/MCY/products/8/optimized/1914748_fpx.tif?$filterlrg$&wid=370",
+                 "colors":
+                 [
+                  "green",
+                  "black"
+                  ],
+                 "stores":
+                 {
+                 "San Francisco": "111 Market St",
+                 "New York": "125, Fifth Avenue"
+                 }
+        },
+        {
+                 "name": "Shirt",
+                 "id": "003",
+                 "description": "Blue color, with pocket",
+                 "regularPrice": 29,
+                 "salePrice": 19,
+                 "productPhoto": "http://slimages.macys.com/is/image/MCY/products/4/optimized/2030924_fpx.tif?01RI=7757D4DCF6AC99C,cm:akamai.mathtag.com%2fevent%2fimg%3fakam_state%3d0%26akid%3d3_lSLM5_LYzLy-u-9B0Rsjub0Y7BDeLtPBI85uVLRdbhCRKnLzM6KkQ%26no_log%26mt_nsync%26mm_bnc&01NA=ck&bgc=255,255,255&wid=164&qlt=90,0&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+                 "colors":
+                 [
+                  "brown",
+                  "white"
+                  ],
+                 "stores":
+                 {
+                 "San Francisco": "111 Market St",
+                 }
+        }
+    ]
+    
+    
+    
+}

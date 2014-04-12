@@ -7,7 +7,15 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <sqlite3.h>
+#import "MCProductsTableViewController.h"
 
-@interface MCViewController : UIViewController
+@interface MCViewController : UIViewController <NSURLConnectionDataDelegate>
+
+@property (strong, nonatomic) NSString *databasePath;
+@property (nonatomic) sqlite3 *productDB;
+
+- (IBAction)createProductButtonPressed:(UIButton *)sender;
+- (IBAction)showProductButtonPressed:(UIButton *)sender;
 
 @end
